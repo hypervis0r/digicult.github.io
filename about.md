@@ -6,7 +6,7 @@ permalink: /about
 
 # Welcome!
 
-DigiCult is a CTF team of people who like to spend too much time on the computer doing illegal technical activities such as hacking, programming and participating in CTFs.
+DigiCult is a CTF team of people who like to spend too much time on the computer doing technical activities such as hacking, programming and participating in CTFs.
 
 ## Current members
 
