@@ -1,2 +1,2 @@
 # digicult.github.io
-our blog
+DigiCult's blog where we publish research, CTF writeups and our notes.
